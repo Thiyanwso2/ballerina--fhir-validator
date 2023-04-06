@@ -7,8 +7,7 @@ distribution = "2201.3.4"
 [[dependency]]
 org = "wso2healthcare"
 name = "healthcare.fhir.r4"
-version = "0.1.15"
-repository = "local"
+version = "0.1.16"
 
 [build-options]
 observabilityIncluded = true

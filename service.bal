@@ -1,7 +1,5 @@
 import ballerina/http;
 
-// import wso2healthcare/healthcare.fhir.r4;
-
 # A service representing a network-accessible API
 # bound to port `9090`.
 service / on new http:Listener(9090) {

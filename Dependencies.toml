@@ -347,7 +347,7 @@ dependencies = [
 [[package]]
 org = "wso2healthcare"
 name = "healthcare.fhir.r4"
-version = "0.1.15"
+version = "0.1.16"
 dependencies = [
 	{org = "ballerina", name = "constraint"},
 	{org = "ballerina", name = "http"},
